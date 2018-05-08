@@ -73,7 +73,7 @@ searchCallback:function(data){
 you should implement what logic you want. it's open.
 
 ### Style 
-you can change style if you think this style not ok, edit the component by your self.
+you can change style if you think this style not ok, edit the component by your self directly.
 
 ### Feedback & Bugs
 maybe the component have some bugs,if have can you send me a email(535553297#qq.com,replace '#' to '@') as soon as ?   
