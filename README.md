@@ -12,7 +12,7 @@
   7. support data group
   
   
-### Useage
+### Usage
 
 import component by your choose,there are two components
 ```javascript
