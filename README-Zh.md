@@ -4,7 +4,7 @@
 
 English document see => README.md
 
-### Feature:  
+### 特性:  
   1. 纯数据驱动
   2. 支持vue指令:v-model
   3. 支持数据双向绑定
@@ -14,7 +14,7 @@ English document see => README.md
   7. 支持数据分组
   
   
-### Usage
+### 用法
 
 选择组件导入，这里有2个组件，一个是基本的，一个是分组的
 ```javascript
