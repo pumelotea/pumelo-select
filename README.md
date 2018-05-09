@@ -2,6 +2,8 @@
 
 > A Vue Select Component By Pumelo
 
+中文文档请看README-Zh.md
+
 ### Feature:  
   1. pure data-drive component
   2. support vue instruction: v-model
