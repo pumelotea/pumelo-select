@@ -4,6 +4,9 @@
 
 English document see => README.md
 
+### 演示
+https://pumelotea.github.io/pumelo-select-preview/
+
 ### 特性:  
   1. 纯数据驱动
   2. 支持vue指令:v-model

@@ -4,6 +4,9 @@
 
 中文文档请看README-Zh.md
 
+### Demo
+https://pumelotea.github.io/pumelo-select-preview/
+
 ### Feature:  
   1. pure data-drive component
   2. support vue instruction: v-model
